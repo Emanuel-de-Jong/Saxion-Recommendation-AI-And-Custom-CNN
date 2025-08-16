@@ -1,1 +1,12 @@
-# Saxion-Recommendation-AI-And-Custom-CNN
+# Recommendation AI And Custom CNN
+For the class: 3.1 BDT ML With Big Data
+
+## Hieroglyph CNN
+We experimented with different layer configurations and RL techniques to create a CNN model that best classifies hieroglyphs. These are the same hieroglyphs used in the [Hieroglyph Recognizer](https://github.com/Emanuel-de-Jong/Saxion-Hieroglyph-Recognizer).
+
+To run it for yourself, download the hieroglyph images here and extract them in `Hieroglyph CNN/dataset-images`. Then run `cnn.ipynb`.
+
+## Recommendation Models
+These are multiple movie UL recommendation algorithms. A content based and a user based system is implemented. Multiple similarity algorithms are tested to find the best fitting one. Since the dataset is large, efficiency during training and inference are taken into account.
+
+To run it for yourself, download the dataset here and extract it in `Recommendation Models/dataset`. Then run the desired notebook.

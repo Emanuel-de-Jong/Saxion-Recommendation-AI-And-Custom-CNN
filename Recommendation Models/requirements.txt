@@ -1,0 +1,6 @@
+numpy
+pandas
+ipython
+scikit-learn
+nltk
+ipywidgets
