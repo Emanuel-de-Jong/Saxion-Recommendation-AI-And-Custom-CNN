@@ -1,6 +1,13 @@
 # Recommendation AI And Custom CNN
 For the class: 3.1 BDT ML With Big Data
 
+**Active Development:** <br>
+**Last Change:** <br>
+
+| | |
+| :---: | :---: |
+| ![](/Screenshots/.png) | ![](/Screenshots/.png) |
+
 ## Hieroglyph CNN
 We experimented with different layer configurations and RL techniques to create a CNN model that best classifies hieroglyphs. These are the same hieroglyphs used in the [Hieroglyph Recognizer](https://github.com/Emanuel-de-Jong/Saxion-Hieroglyph-Recognizer).
 
