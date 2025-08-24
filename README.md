@@ -8,7 +8,7 @@ This class existed of two parts. Using unsupervised learning equations for movie
 
 | | |
 | :---: | :---: |
-| ![](/Screenshots/.png) | ![](/Screenshots/.png) |
+| ![](/Screenshots/1-User_Based.png) | ![](/Screenshots/2-CNN.png) |
 
 ## Hieroglyph CNN
 We experimented with different layer configurations and RL techniques to create a CNN model that best classifies hieroglyphs. These are the same hieroglyphs used in the [Hieroglyph Recognizer](https://github.com/Emanuel-de-Jong/Saxion-Hieroglyph-Recognizer).
