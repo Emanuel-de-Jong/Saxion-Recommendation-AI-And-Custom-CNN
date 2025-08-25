@@ -3,8 +3,8 @@ For the class: 3.1 BDT ML With Big Data
 
 This class existed of two parts. Using unsupervised learning equations for movie recommendation systems, and designing a custom CNN to recognize hieroglyphs in images.
 
-**Active Development:** <br>
-**Last Change:** <br>
+**Active Development:** 2024-09-09 - 2024-11-08<br>
+**Last Change:** 2024-11-08<br>
 
 | | |
 | :---: | :---: |
