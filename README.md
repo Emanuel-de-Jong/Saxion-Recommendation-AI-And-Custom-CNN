@@ -19,3 +19,4 @@ To run it for yourself, download the hieroglyph images [here](https://github.com
 These are multiple movie UL recommendation algorithms. A content based and a user based system is implemented. Multiple similarity algorithms are tested to find the best fitting one. Since the dataset is large, efficiency during training and inference are taken into account.
 
 To run it for yourself, download the dataset [here](https://github.com/Emanuel-de-Jong/Saxion-Recommendation-AI-And-Custom-CNN/releases/tag/movie-dataset) and extract it in `Movie Recommendation Models/dataset`. Then run the desired notebook.
+ 
